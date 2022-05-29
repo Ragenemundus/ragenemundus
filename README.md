@@ -1,9 +1,6 @@
 ### Iai galerinha 👋 Sou Ramon Ragenemundus 
 
-- 🔭 Sou Bacharel em Sistemas de informação 
-- 🌱 Atualmente tenho estudado Python (tanto desenvolvimento  quanto analise de dados)
-- 😄 Pronouns: ele/dele
-- ⚡ Fun fact: ...
+
 
 <div align="center">
   <a href="https://github.com/Ragenemundus">
@@ -23,3 +20,7 @@
  
 </div>
 
+- 🔭 Sou Bacharel em Sistemas de informação 
+- 🌱 Atualmente tenho estudado Python (tanto desenvolvimento  quanto analise de dados)
+- 😄 Pronouns: ele/dele
+- ⚡ Fun fact: ...
