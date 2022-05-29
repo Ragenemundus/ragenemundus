@@ -1,8 +1,11 @@
 ### Iai galerinha 👋 Sou Ramon Ragenemundus 
+- 🔭 Sou Bacharel em Sistemas de informação 
+- 🌱 Atualmente tenho estudado Python (tanto desenvolvimento  quanto analise de dados)
+- 😄 Pronouns: ele/dele
+- ⚡ Fun fact: ...
 
 
-
-<div align="center">
+<div align="left">
   <a href="https://github.com/Ragenemundus">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Ragenemundus&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ragenemundus&layout=compact&langs_count=7&theme=merko"/>
@@ -20,7 +23,4 @@
  
 </div>
 
-- 🔭 Sou Bacharel em Sistemas de informação 
-- 🌱 Atualmente tenho estudado Python (tanto desenvolvimento  quanto analise de dados)
-- 😄 Pronouns: ele/dele
-- ⚡ Fun fact: ...
+
